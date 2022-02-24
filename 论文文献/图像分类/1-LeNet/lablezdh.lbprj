@@ -1,0 +1,617 @@
+project:
+  labelNum: 2
+  labels:
+    - "null"
+    - tower
+  picNum: 136
+  0:
+    path: /home/hxzh02/文档/航拍数据集/1020.jpg
+    objNum: 2
+    obj:
+      - shape: 2
+        label: tower
+        x: 569.5
+        y: 376.5
+        height: 617
+        width: 372
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+      - shape: 2
+        label: "null"
+        x: 515
+        y: 293
+        height: 10
+        width: 10
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+  1:
+    path: /home/hxzh02/文档/航拍数据集/1080.jpg
+    objNum: 1
+    obj:
+      - shape: 2
+        label: tower
+        x: 756
+        y: 437
+        height: 550
+        width: 576
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+  2:
+    path: /home/hxzh02/文档/航拍数据集/1140.jpg
+    objNum: 2
+    obj:
+      - shape: 2
+        label: tower
+        x: 706.5
+        y: 432
+        height: 530
+        width: 603
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+      - shape: 2
+        label: tower
+        x: 166
+        y: 538.5
+        height: 357
+        width: 276
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+  3:
+    path: /home/hxzh02/文档/航拍数据集/120.jpg
+    objNum: 1
+    obj:
+      - shape: 2
+        label: tower
+        x: 647.5
+        y: 355.5
+        height: 617
+        width: 305
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+  4:
+    path: /home/hxzh02/文档/航拍数据集/1200.jpg
+    objNum: 3
+    obj:
+      - shape: 2
+        label: tower
+        x: 680
+        y: 406.5
+        height: 637
+        width: 286
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+      - shape: 2
+        label: tower
+        x: 474
+        y: 288
+        height: 416
+        width: 132
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+      - shape: 2
+        label: tower
+        x: 340.5
+        y: 225.5
+        height: 331
+        width: 137
+        rotation: 0
+        labelFont:
+          family: Microsoft Yahei
+          size: 14
+        labelColor:
+          r: 0
+          g: 255
+          b: 255
+        shapeColor:
+          r: 255
+          g: 88
+          b: 80
+        centerMarkSize: 8
+        centerMarkThick: 2
+        borderThick: 2
+        polygonNum: 0
+  5:
+    path: /home/hxzh02/文档/航拍数据集/1260.jpg
+    objNum: 0
+  6:
+    path: /home/hxzh02/文档/航拍数据集/1320.jpg
+    objNum: 0
+  7:
+    path: /home/hxzh02/文档/航拍数据集/1380.jpg
+    objNum: 0
+  8:
+    path: /home/hxzh02/文档/航拍数据集/1440.jpg
+    objNum: 0
+  9:
+    path: /home/hxzh02/文档/航拍数据集/1500.jpg
+    objNum: 0
+  10:
+    path: /home/hxzh02/文档/航拍数据集/1560.jpg
+    objNum: 0
+  11:
+    path: /home/hxzh02/文档/航拍数据集/1620.jpg
+    objNum: 0
+  12:
+    path: /home/hxzh02/文档/航拍数据集/1680.jpg
+    objNum: 0
+  13:
+    path: /home/hxzh02/文档/航拍数据集/1740.jpg
+    objNum: 0
+  14:
+    path: /home/hxzh02/文档/航拍数据集/180.jpg
+    objNum: 0
+  15:
+    path: /home/hxzh02/文档/航拍数据集/1800.jpg
+    objNum: 0
+  16:
+    path: /home/hxzh02/文档/航拍数据集/1860.jpg
+    objNum: 0
+  17:
+    path: /home/hxzh02/文档/航拍数据集/1920.jpg
+    objNum: 0
+  18:
+    path: /home/hxzh02/文档/航拍数据集/1980.jpg
+    objNum: 0
+  19:
+    path: /home/hxzh02/文档/航拍数据集/2040.jpg
+    objNum: 0
+  20:
+    path: /home/hxzh02/文档/航拍数据集/240.jpg
+    objNum: 0
+  21:
+    path: /home/hxzh02/文档/航拍数据集/360.jpg
+    objNum: 0
+  22:
+    path: /home/hxzh02/文档/航拍数据集/3660.jpg
+    objNum: 0
+  23:
+    path: /home/hxzh02/文档/航拍数据集/3720.jpg
+    objNum: 0
+  24:
+    path: /home/hxzh02/文档/航拍数据集/3900.jpg
+    objNum: 0
+  25:
+    path: /home/hxzh02/文档/航拍数据集/4200.jpg
+    objNum: 0
+  26:
+    path: /home/hxzh02/文档/航拍数据集/480.jpg
+    objNum: 0
+  27:
+    path: /home/hxzh02/文档/航拍数据集/540.jpg
+    objNum: 0
+  28:
+    path: /home/hxzh02/文档/航拍数据集/5940.jpg
+    objNum: 0
+  29:
+    path: /home/hxzh02/文档/航拍数据集/60.jpg
+    objNum: 0
+  30:
+    path: /home/hxzh02/文档/航拍数据集/6000.jpg
+    objNum: 0
+  31:
+    path: /home/hxzh02/文档/航拍数据集/6360.jpg
+    objNum: 0
+  32:
+    path: /home/hxzh02/文档/航拍数据集/660.jpg
+    objNum: 0
+  33:
+    path: /home/hxzh02/文档/航拍数据集/720.jpg
+    objNum: 0
+  34:
+    path: /home/hxzh02/文档/航拍数据集/780.jpg
+    objNum: 0
+  35:
+    path: /home/hxzh02/文档/航拍数据集/840.jpg
+    objNum: 0
+  36:
+    path: /home/hxzh02/文档/航拍数据集/900.jpg
+    objNum: 0
+  37:
+    path: /home/hxzh02/文档/航拍数据集/960.jpg
+    objNum: 0
+  38:
+    path: /home/hxzh02/文档/航拍数据集/a1200.jpg
+    objNum: 0
+  39:
+    path: /home/hxzh02/文档/航拍数据集/a2460.jpg
+    objNum: 0
+  40:
+    path: /home/hxzh02/文档/航拍数据集/a2520.jpg
+    objNum: 0
+  41:
+    path: /home/hxzh02/文档/航拍数据集/a3000.jpg
+    objNum: 0
+  42:
+    path: /home/hxzh02/文档/航拍数据集/a3480.jpg
+    objNum: 0
+  43:
+    path: /home/hxzh02/文档/航拍数据集/a3660.jpg
+    objNum: 0
+  44:
+    path: /home/hxzh02/文档/航拍数据集/a3900.jpg
+    objNum: 0
+  45:
+    path: /home/hxzh02/文档/航拍数据集/a4320.jpg
+    objNum: 0
+  46:
+    path: /home/hxzh02/文档/航拍数据集/a4440.jpg
+    objNum: 0
+  47:
+    path: /home/hxzh02/文档/航拍数据集/a4680.jpg
+    objNum: 0
+  48:
+    path: /home/hxzh02/文档/航拍数据集/a5040.jpg
+    objNum: 0
+  49:
+    path: /home/hxzh02/文档/航拍数据集/a5160.jpg
+    objNum: 0
+  50:
+    path: /home/hxzh02/文档/航拍数据集/a5460.jpg
+    objNum: 0
+  51:
+    path: /home/hxzh02/文档/航拍数据集/a5940.jpg
+    objNum: 0
+  52:
+    path: /home/hxzh02/文档/航拍数据集/a6060.jpg
+    objNum: 0
+  53:
+    path: /home/hxzh02/文档/航拍数据集/a6180.jpg
+    objNum: 0
+  54:
+    path: /home/hxzh02/文档/航拍数据集/a6420.jpg
+    objNum: 0
+  55:
+    path: /home/hxzh02/文档/航拍数据集/b180.jpg
+    objNum: 0
+  56:
+    path: /home/hxzh02/文档/航拍数据集/b300.jpg
+    objNum: 0
+  57:
+    path: /home/hxzh02/文档/航拍数据集/b60.jpg
+    objNum: 0
+  58:
+    path: /home/hxzh02/文档/航拍数据集/b600.jpg
+    objNum: 0
+  59:
+    path: /home/hxzh02/文档/航拍数据集/b780.jpg
+    objNum: 0
+  60:
+    path: /home/hxzh02/文档/航拍数据集/b960.jpg
+    objNum: 0
+  61:
+    path: /home/hxzh02/文档/航拍数据集/c1500.jpg
+    objNum: 0
+  62:
+    path: /home/hxzh02/文档/航拍数据集/c240.jpg
+    objNum: 0
+  63:
+    path: /home/hxzh02/文档/航拍数据集/c2400.jpg
+    objNum: 0
+  64:
+    path: /home/hxzh02/文档/航拍数据集/d1680.jpg
+    objNum: 0
+  65:
+    path: /home/hxzh02/文档/航拍数据集/d300.jpg
+    objNum: 0
+  66:
+    path: /home/hxzh02/文档/航拍数据集/d4020.jpg
+    objNum: 0
+  67:
+    path: /home/hxzh02/文档/航拍数据集/d540.jpg
+    objNum: 0
+  68:
+    path: /home/hxzh02/文档/航拍数据集/d840.jpg
+    objNum: 0
+  69:
+    path: /home/hxzh02/文档/航拍数据集/e120.jpg
+    objNum: 0
+  70:
+    path: /home/hxzh02/文档/航拍数据集/e1260.jpg
+    objNum: 0
+  71:
+    path: /home/hxzh02/文档/航拍数据集/e1860.jpg
+    objNum: 0
+  72:
+    path: /home/hxzh02/文档/航拍数据集/e1920.jpg
+    objNum: 0
+  73:
+    path: /home/hxzh02/文档/航拍数据集/e2100.jpg
+    objNum: 0
+  74:
+    path: /home/hxzh02/文档/航拍数据集/e420.jpg
+    objNum: 0
+  75:
+    path: /home/hxzh02/文档/航拍数据集/e60.jpg
+    objNum: 0
+  76:
+    path: /home/hxzh02/文档/航拍数据集/e720.jpg
+    objNum: 0
+  77:
+    path: /home/hxzh02/文档/航拍数据集/e780.jpg
+    objNum: 0
+  78:
+    path: /home/hxzh02/文档/航拍数据集/e900.jpg
+    objNum: 0
+  79:
+    path: /home/hxzh02/文档/航拍数据集/e960.jpg
+    objNum: 0
+  80:
+    path: /home/hxzh02/文档/航拍数据集/f1200.jpg
+    objNum: 0
+  81:
+    path: /home/hxzh02/文档/航拍数据集/f1260.jpg
+    objNum: 0
+  82:
+    path: /home/hxzh02/文档/航拍数据集/f1500.jpg
+    objNum: 0
+  83:
+    path: /home/hxzh02/文档/航拍数据集/f1620.jpg
+    objNum: 0
+  84:
+    path: /home/hxzh02/文档/航拍数据集/f1740.jpg
+    objNum: 0
+  85:
+    path: /home/hxzh02/文档/航拍数据集/f1800.jpg
+    objNum: 0
+  86:
+    path: /home/hxzh02/文档/航拍数据集/f360.jpg
+    objNum: 0
+  87:
+    path: /home/hxzh02/文档/航拍数据集/f60.jpg
+    objNum: 0
+  88:
+    path: /home/hxzh02/文档/航拍数据集/f720.jpg
+    objNum: 0
+  89:
+    path: /home/hxzh02/文档/航拍数据集/f960.jpg
+    objNum: 0
+  90:
+    path: /home/hxzh02/文档/航拍数据集/g1020.jpg
+    objNum: 0
+  91:
+    path: /home/hxzh02/文档/航拍数据集/g2340.jpg
+    objNum: 0
+  92:
+    path: /home/hxzh02/文档/航拍数据集/g2400.jpg
+    objNum: 0
+  93:
+    path: /home/hxzh02/文档/航拍数据集/g60.jpg
+    objNum: 0
+  94:
+    path: /home/hxzh02/文档/航拍数据集/h360.jpg
+    objNum: 0
+  95:
+    path: /home/hxzh02/文档/航拍数据集/h600.jpg
+    objNum: 0
+  96:
+    path: /home/hxzh02/文档/航拍数据集/i1260.jpg
+    objNum: 0
+  97:
+    path: /home/hxzh02/文档/航拍数据集/i1560.jpg
+    objNum: 0
+  98:
+    path: /home/hxzh02/文档/航拍数据集/i1620.jpg
+    objNum: 0
+  99:
+    path: /home/hxzh02/文档/航拍数据集/i2220.jpg
+    objNum: 0
+  100:
+    path: /home/hxzh02/文档/航拍数据集/i2280.jpg
+    objNum: 0
+  101:
+    path: /home/hxzh02/文档/航拍数据集/i2640.jpg
+    objNum: 0
+  102:
+    path: /home/hxzh02/文档/航拍数据集/i3120.jpg
+    objNum: 0
+  103:
+    path: /home/hxzh02/文档/航拍数据集/i3180.jpg
+    objNum: 0
+  104:
+    path: /home/hxzh02/文档/航拍数据集/i3720.jpg
+    objNum: 0
+  105:
+    path: /home/hxzh02/文档/航拍数据集/j360.jpg
+    objNum: 0
+  106:
+    path: /home/hxzh02/文档/航拍数据集/j60.jpg
+    objNum: 0
+  107:
+    path: /home/hxzh02/文档/航拍数据集/k1020.jpg
+    objNum: 0
+  108:
+    path: /home/hxzh02/文档/航拍数据集/k2040.jpg
+    objNum: 0
+  109:
+    path: /home/hxzh02/文档/航拍数据集/k60.jpg
+    objNum: 0
+  110:
+    path: /home/hxzh02/文档/航拍数据集/k900.jpg
+    objNum: 0
+  111:
+    path: /home/hxzh02/文档/航拍数据集/k960.jpg
+    objNum: 0
+  112:
+    path: /home/hxzh02/文档/航拍数据集/l1080.jpg
+    objNum: 0
+  113:
+    path: /home/hxzh02/文档/航拍数据集/l1560.jpg
+    objNum: 0
+  114:
+    path: /home/hxzh02/文档/航拍数据集/l60.jpg
+    objNum: 0
+  115:
+    path: /home/hxzh02/文档/航拍数据集/l720.jpg
+    objNum: 0
+  116:
+    path: /home/hxzh02/文档/航拍数据集/m10140.jpg
+    objNum: 0
+  117:
+    path: /home/hxzh02/文档/航拍数据集/m10440.jpg
+    objNum: 0
+  118:
+    path: /home/hxzh02/文档/航拍数据集/m1080.jpg
+    objNum: 0
+  119:
+    path: /home/hxzh02/文档/航拍数据集/m1380.jpg
+    objNum: 0
+  120:
+    path: /home/hxzh02/文档/航拍数据集/m1500.jpg
+    objNum: 0
+  121:
+    path: /home/hxzh02/文档/航拍数据集/m2040.jpg
+    objNum: 0
+  122:
+    path: /home/hxzh02/文档/航拍数据集/m2580.jpg
+    objNum: 0
+  123:
+    path: /home/hxzh02/文档/航拍数据集/m3120.jpg
+    objNum: 0
+  124:
+    path: /home/hxzh02/文档/航拍数据集/m3660.jpg
+    objNum: 0
+  125:
+    path: /home/hxzh02/文档/航拍数据集/m4260.jpg
+    objNum: 0
+  126:
+    path: /home/hxzh02/文档/航拍数据集/m4560.jpg
+    objNum: 0
+  127:
+    path: /home/hxzh02/文档/航拍数据集/m4620.jpg
+    objNum: 0
+  128:
+    path: /home/hxzh02/文档/航拍数据集/m4980.jpg
+    objNum: 0
+  129:
+    path: /home/hxzh02/文档/航拍数据集/m5760.jpg
+    objNum: 0
+  130:
+    path: /home/hxzh02/文档/航拍数据集/m60.jpg
+    objNum: 0
+  131:
+    path: /home/hxzh02/文档/航拍数据集/m600.jpg
+    objNum: 0
+  132:
+    path: /home/hxzh02/文档/航拍数据集/m6240.jpg
+    objNum: 0
+  133:
+    path: /home/hxzh02/文档/航拍数据集/m7200.jpg
+    objNum: 0
+  134:
+    path: /home/hxzh02/文档/航拍数据集/m8580.jpg
+    objNum: 0
+  135:
+    path: /home/hxzh02/文档/航拍数据集/m9540.jpg
+    objNum: 0
